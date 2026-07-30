@@ -12,15 +12,18 @@ The switch configuration was verified to ensure proper device connectivity and n
 The switch configuration was verified using Cisco IOS commands: show interfaces status
 
 show interfaces status
- -This command was used to verify active switch ports and connected devices.
+ 
+This command was used to verify active switch ports and connected devices.
 ![Switch Interface Status](Switch%20interface.png)
 
 show vlan brief
- -This command was used to verify VLAN availability and port assignments.
+
+This command was used to verify VLAN availability and port assignments.
 ![Switch VLAN Configuration](Switch%20Vlan.png)
 
 show mac address-table
- -This command was used to verify that the switch was learning connected device MAC addresses.
+
+This command was used to verify that the switch was learning connected device MAC addresses.
 ![Switch MAC Address Table](Switch%20Mac%20Address.png)
 
 

@@ -15,3 +15,5 @@ The cloud environment extends the on-premises enterprise network by simulating e
 | Email Server | Server | Provides email services for the enterprise |
 | File Server | Server | Stores and shares files across the network |
 | Application Server | Server | Hosts business applications for enterprise users |
+
+![Cloud Infrastructure Design](Cloud%20.png)

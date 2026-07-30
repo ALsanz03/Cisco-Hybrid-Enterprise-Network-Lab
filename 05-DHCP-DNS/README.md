@@ -43,3 +43,5 @@ The DHCP service provides:
 - DNS server information
 
 ![DHCP Server Configuration](DHCP-Server-Configuration.png)
+
+![Help Desk Laptop DHCP Configuration](HP%20DHCP.png)

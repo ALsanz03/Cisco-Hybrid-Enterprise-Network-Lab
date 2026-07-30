@@ -30,6 +30,8 @@ The network uses private IPv4 addressing to simulate a small business environmen
 | Management-Smartphone1 | DHCP | Dynamic | Management |
 | HelpDesk-Smartphone1 | DHCP | Dynamic | Help Desk |
 
+![IT-PC1 IP Address Configuration](Ip%20Addressing%20IT%20pc1.png)
+
 ## Subnetting Explanation
 
 The on-premises network uses the 192.168.100.0/24 private IPv4 range.

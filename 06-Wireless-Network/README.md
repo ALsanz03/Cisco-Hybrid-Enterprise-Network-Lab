@@ -29,3 +29,5 @@ The following wireless devices connect through WAP1-Corporate and receive their 
 | Sales-Smartphone1 | Smartphone | Sales | DHCP |
 | Management-Smartphone1 | Smartphone | Management | DHCP |
 | HelpDesk-Smartphone1 | Smartphone | Help Desk | DHCP |
+
+![Wireless Devices Connected to WAP1-Corporate](Wireless%20Devices.png)

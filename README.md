@@ -25,6 +25,6 @@ As the project continues to evolve, additional enterprise networking concepts su
 - Network Troubleshooting
 - Connectivity Testing (Ping and DNS)
 
-##Purpose
+## Purpose
 
 The goal of this project is to strengthen my networking fundamentals through hands-on practice while creating a documented portfolio project that demonstrates my ability to configure, troubleshoot, and maintain enterprise network infrastructure in preparation for an entry-level IT Support or Help Desk role.

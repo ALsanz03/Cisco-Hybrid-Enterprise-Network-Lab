@@ -31,14 +31,15 @@ The following devices receive IP addresses dynamically:
 | Management-Smartphone1 | Smartphone | DHCP | Management |
 | HelpDesk-Smartphone1 | Smartphone | DHCP | Help Desk |
 
-## Wireless DHCP Clients
+## DHCP Server Configuration
 
-Wireless clients connected through WAP1-Corporate receive their network configuration automatically through DHCP.
+DHCP services were configured on the network server to automatically assign IP addressing information to client devices.
 
-The wireless environment includes:
+The DHCP service provides:
 
-- Department laptops
-- Mobile smartphones
-- Corporate wireless access
+- IP address assignment
+- Subnet mask configuration
+- Default gateway information
+- DNS server information
 
-DHCP allows these devices to join the network without requiring manual IP address assignment.
+![DHCP Server Configuration](DHCP-Server-Configuration.png)

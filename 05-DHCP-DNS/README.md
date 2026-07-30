@@ -44,4 +44,17 @@ The DHCP service provides:
 
 ![DHCP Server Configuration](DHCP-Server-Configuration.png)
 
+## DHCP Client Verification
+
+Client devices were tested to confirm they successfully received dynamic network configuration from the DHCP service.
+
+The Help Desk laptop successfully received:
+
+- IP Address assignment
+- Subnet Mask
+- Default Gateway
+- DNS information
+
+![Help Desk Laptop DHCP Configuration](HP%20DHCP.png)
+
 ![Help Desk Laptop DHCP Configuration](HP%20DHCP.png)

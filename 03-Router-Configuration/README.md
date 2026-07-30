@@ -40,6 +40,8 @@ R1-GATEWAY performs the following functions:
 
 ## Verification
 
+![R1 Gateway Interface Configuration](R1%20Gateway%20Subnet.png)
+
 Router connectivity was verified using:
 
 show ip interface brief

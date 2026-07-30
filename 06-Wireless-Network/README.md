@@ -13,8 +13,7 @@ Wireless clients receive network addressing dynamically through DHCP.
 |---|---|---|---|---|
 | WAP1-Corporate | Linksys WRT300N | 192.168.100.2 | 255.255.255.0 | Provides wireless connectivity for laptops and smartphones on the corporate network |
 
-
-
+![WAP1-Corporate Configuration](WAP1-CorporateConfig.png)
 
 ## Wireless Clients
 

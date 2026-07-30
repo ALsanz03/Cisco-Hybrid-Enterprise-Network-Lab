@@ -56,5 +56,3 @@ The Help Desk laptop successfully received:
 - DNS information
 
 ![Help Desk Laptop DHCP Configuration](HP%20DHCP.png)
-
-![Help Desk Laptop DHCP Configuration](HP%20DHCP.png)

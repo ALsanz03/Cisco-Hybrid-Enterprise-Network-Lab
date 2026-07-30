@@ -9,7 +9,7 @@ Throughout the project, I configured IP addressing, routing, DHCP, DNS, wireless
 
 As the project continues to evolve, additional enterprise networking concepts such as VLAN segmentation, inter-VLAN communication, and enhanced network security will be incorporated to further simulate a real-world business network.
 
-
+![Cisco Packet Tracer Project](Screenshot%202026-07-30%20125204.png)
 
 Technologies and Concepts
 Cisco Packet Tracer

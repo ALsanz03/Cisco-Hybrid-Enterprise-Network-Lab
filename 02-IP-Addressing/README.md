@@ -56,3 +56,5 @@ Network connectivity was verified using:
 - DHCP address assignment testing
 
 Successful communication between network devices confirmed proper IP addressing and connectivity.
+
+![Ping Test Results](Ping%20Test%20.png)

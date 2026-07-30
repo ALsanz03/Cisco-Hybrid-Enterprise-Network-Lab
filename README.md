@@ -11,6 +11,8 @@ As the project continues to evolve, additional enterprise networking concepts su
 
 ![Cisco Packet Tracer Project](Screenshot%202026-07-30%20125204.png)
 
+
+This includes:
 Technologies and Concepts
 Cisco Packet Tracer
 Enterprise Network Design
@@ -25,6 +27,6 @@ Network Troubleshooting
 Connectivity Testing (Ping and DNS)
 VLANs (planned implementation)
 Inter-VLAN Routing (planned implementation)
-Purpose
 
+Purpose
 The goal of this project is to strengthen my networking fundamentals through hands-on practice while creating a documented portfolio project that demonstrates my ability to configure, troubleshoot, and maintain enterprise network infrastructure in preparation for an entry-level IT Support or Help Desk role.

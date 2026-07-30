@@ -43,6 +43,8 @@ The /24 subnet provides:
 - One network address
 - One broadcast address
 
+![R1 Gateway Subnet Configuration](R1%20Gateway%20Subnet.png)
+
 This addressing scheme provides enough available addresses for current users and future expansion.
 
 ## Verification

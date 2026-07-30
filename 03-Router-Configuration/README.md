@@ -54,3 +54,5 @@ This command confirms:
 
 ping 
 was used to verify communication between connected devices.
+
+![Router Ping Test](router%20ping.png)
